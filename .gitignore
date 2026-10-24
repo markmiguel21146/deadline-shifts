@@ -35,7 +35,15 @@
 *.DotSettings.user
 
 # Visual Studio cache directory
+.vscode/
 .vs/
+.idea/
+
+# Solution files
+*.csproj
+*.unityproj
+*.sln
+*.slnx
 
 # Gradle cache directory
 .gradle/
