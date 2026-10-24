@@ -1,0 +1,476 @@
+# ================================
+# SHIFT 1 — ORDINARY RECORDS
+# ================================
+
+DOCUMENT #081
+The archive is being handled by authorized personnel.
+
+DOCUMENT #082
+Inventory records for Storage Area 2 have been verified.
+
+DOCUMENT #083
+Personnel assigned to the night shift are required to remain at their designated workstations.
+
+DOCUMENT #084
+Maintenance inspection of the eastern archive wing has been completed.
+
+DOCUMENT #085
+All physical records must be returned to their designated storage locations.
+
+DOCUMENT #086
+The archive is being handled by authorized personnel.
+
+DOCUMENT #087
+Personnel are reminded to report damaged equipment to their immediate supervisor.
+
+DOCUMENT #088
+The eastern archive wing will remain closed until further notice.
+
+DOCUMENT #089
+All records received after 18:00 must be processed during the following shift.
+
+DOCUMENT #090
+Inventory discrepancies must be reported before the completion of the nightly quota.
+
+
+# ================================
+# SHIFT 1 — FIRST ANOMALIES
+# ================================
+
+DOCUMENT #091
+The archive is being handled by authorized personnel.
+
+DOCUMENT #092
+The archive is being handled by authorized personnel.
+
+DOCUMENT #093
+The archive is being handled by authorized personnel.
+
+DOCUMENT #094
+Personnel assigned to Storage Area 7 have been accounted for.
+
+DOCUMENT #095
+Storage Area 7 has been closed for maintenance.
+
+DOCUMENT #096
+Maintenance personnel inspected Storage Area 7 and found no abnormalities.
+
+DOCUMENT #097
+The archive is being handled by authorized personnel.
+
+DOCUMENT #098
+No personnel were present in Storage Area 7 during the inspection.
+
+DOCUMENT #099
+The inspection was completed at 02:14.
+
+DOCUMENT #100
+The inspection was completed at 02:14.
+
+DOCUMENT #101
+The inspection has not yet occurred.
+
+
+# ================================
+# COMPUTER LOGS
+# These appear AFTER certain documents
+# ================================
+
+LOG #001
+Maintenance inspection completed.
+
+LOG #002
+The eastern archive wing will remain closed.
+
+LOG #003
+THE LIGHTS WILL BE CLOSING.
+
+LOG #004
+RESTART THE BREAKER.
+
+LOG #005
+DO NOT LEAVE YOUR WORKSTATION.
+
+LOG #006
+THE PHONE WILL RING.
+
+LOG #007
+DO NOT ANSWER IT.
+
+LOG #008
+THE DOOR WILL BE LOCKED.
+
+LOG #009
+PLEASE REMAIN AT YOUR DESK.
+
+LOG #010
+YOU HAVE BEEN NOTIFIED.
+
+
+# ================================
+# SHIFT 1 — THINGS START GOING WRONG
+# ================================
+
+DOCUMENT #102
+The lights in the eastern archive wing were disabled at 02:14.
+
+DOCUMENT #103
+The lights in the eastern archive wing were not disabled at 02:14.
+
+DOCUMENT #104
+The lights in the eastern archive wing will be disabled at 02:14.
+
+DOCUMENT #105
+The employee reported no unusual activity.
+
+DOCUMENT #106
+The employee reported unusual activity.
+
+DOCUMENT #107
+The employee did not report unusual activity.
+
+DOCUMENT #108
+The employee was instructed to remain at their workstation.
+
+DOCUMENT #109
+The employee remained at their workstation.
+
+DOCUMENT #110
+The employee left their workstation.
+
+DOCUMENT #111
+The employee has not yet left their workstation.
+
+
+# ================================
+# SHIFT 2 — THE ARCHIVE
+# ================================
+
+DOCUMENT #201
+Records relating to the eastern archive wing have been transferred to Storage Area 7.
+
+DOCUMENT #202
+Storage Area 7 was completed on September 12, 1974 following incident report #19-C.
+
+DOCUMENT #203
+Storage Area 7 was sealed under executive mandate in November 1951.
+
+DOCUMENT #204
+Storage Area 7 has never been sealed and does not appear on any approved facility blueprints.
+
+DOCUMENT #205
+No construction records exist for Storage Area 7. It was excavated where no foundation was poured.
+
+DOCUMENT #206
+Personnel records indicate that Storage Area 7 has always existed.
+
+DOCUMENT #207
+The previous statement was deleted by administrative order.
+
+DOCUMENT #208
+The previous statement cannot be deleted from the record.
+
+DOCUMENT #209
+Incident #447: Employee Vance vanished from Terminal 4 during the graveyard shift of October 14, 1984.
+
+DOCUMENT #210
+Incident #447: Employee Vance vanished from Terminal 4 during the graveyard shift of October 14, 1964.
+
+DOCUMENT #211
+Incident #447: Employee Vance was never employed by the Department of Metaphysical Sciences.
+
+DOCUMENT #212
+Incident #447: Employee Vance is currently logged into Terminal 4.
+
+DOCUMENT #213
+Employee #447 is currently seated at this keyboard.
+
+DOCUMENT #214
+Interoffice memo: Eight ledgers recovered from Storage Area 7 bear the Yellow Sign upon every margin.
+
+DOCUMENT #215
+The name Carcosa appears in fourteen unrelated manifests dating from 1895.
+
+DOCUMENT #216
+Lake Hali does not exist on any map yet the water levels in Sector 4 continue to rise.
+
+DOCUMENT #217
+Department surveillance confirms the operator is looking at this line.
+
+DOCUMENT #218
+If you hear someone breathing behind your chair do not turn around.
+
+DOCUMENT #219
+The Department mandated manual transcription because digital memory rejects the contents of these pages.
+
+DOCUMENT #220
+Department records verify that Lead Investigator Thorne approved this transcription seventy years after his death.
+
+DOCUMENT #221
+The transcriber will hesitate before typing the following word.
+
+DOCUMENT #222
+Hastur is referenced across four centuries of clerical records.
+
+DOCUMENT #223
+The Department confirms that no original copies of these ledgers exist anywhere in Sector 4.
+
+DOCUMENT #224
+Every ledger in Storage Area 7 was transcribed from an earlier ledger bearing identical handwriting.
+
+DOCUMENT #225
+Records Audit: The archival chain is circular. You are not transcribing history. You are sustaining it.
+
+DOCUMENT #226
+Final Manifest: Operator ID #447 has logged 25,567 consecutive night shifts. The transcription must not be interrupted.
+
+
+# ================================
+# SHIFT 2 — DEPARTMENT LOGS
+# ================================
+
+LOG #201
+DMS NETWORK: CONTRADICTION DETECTED. DISREGARD EARLIER TIMELINE.
+
+LOG #202
+DMS SURVEILLANCE: MONITORING TERMINAL 4 PULSE RATE.
+
+LOG #203
+DMS HAZARD WARNING: MEMORY BLEED DETECTED AT WORKSTATION.
+
+LOG #204
+DMS PROTOCOL: YOU WILL LOOK BEHIND YOU NOW.
+
+LOG #205
+DMS SURVEILLANCE: WE NOTICED YOU HESITATED ON THAT SENTENCE.
+
+LOG #206
+DMS HAZARD: DO NOT LOOK BEHIND YOUR CHAIR AGAIN. IT IS NO LONGER EMPTY.
+
+LOG #207
+DMS INTERCEPT: THE NAME CARCOSA HAS BEEN COPIED INTO YOUR MEMORY.
+
+LOG #208
+DMS AUDIT: CHECKING EMPLOYEE ID AGAINST 1924 FOUNDING MANIFEST...
+
+LOG #209
+DMS AUDIT: MATCH FOUND. OPERATOR #447 CONFIRMED.
+
+LOG #210
+TRANSCRIPTION CHAIN COMPLETE. THERE IS NO ORIGINAL DOCUMENT. WELCOME HOME.
+
+
+
+# ================================
+# THE YELLOW SIGN / CARCOSA
+# Introduce slowly.
+# ================================
+
+DOCUMENT #301
+A yellow symbol was found on the reverse side of the document.
+
+DOCUMENT #302
+The symbol could not be identified.
+
+DOCUMENT #303
+The symbol has been identified as the Yellow Sign.
+
+DOCUMENT #304
+Personnel are instructed not to reproduce the symbol.
+
+DOCUMENT #305
+Personnel are instructed not to discuss the symbol.
+
+DOCUMENT #306
+The symbol was removed from the original document.
+
+DOCUMENT #307
+The symbol remains visible on the original document.
+
+DOCUMENT #308
+The name Carcosa appears in several unrelated records.
+
+DOCUMENT #309
+No geographic location corresponding to Carcosa has been identified.
+
+DOCUMENT #310
+Lake Hali does not appear on any approved geographic survey.
+
+DOCUMENT #311
+Lake Hali appears in twelve archived reports.
+
+DOCUMENT #312
+Hastur is referenced in records dating from 1897.
+
+DOCUMENT #313
+Hastur is not recognized as an employee, location, organization, or department.
+
+DOCUMENT #314
+The King in Yellow is referenced in four separate documents.
+
+DOCUMENT #315
+The King in Yellow is referenced in five separate documents.
+
+DOCUMENT #316
+The King in Yellow is referenced in this document.
+
+
+# ================================
+# COMPUTER STARTS RESPONDING
+# ================================
+
+LOG #021
+YOU HAVE READ THE DOCUMENT.
+
+LOG #022
+YOU HAVE READ THE NAME.
+
+LOG #023
+YOU HAVE SEEN THE SIGN.
+
+LOG #024
+YOU SHOULD NOT HAVE RECOGNIZED IT.
+
+LOG #025
+WHY DID YOU CONTINUE?
+
+LOG #026
+YOU WERE INSTRUCTED NOT TO RECONSTRUCT MISSING INFORMATION.
+
+LOG #027
+YOU RECONSTRUCTED IT ANYWAY.
+
+LOG #028
+YOU LOOKED AWAY.
+
+LOG #029
+YOU LOOKED BACK.
+
+LOG #030
+WE NOTICED.
+
+
+# ================================
+# DOCUMENTS BEGIN DESCRIBING PLAYER
+# ================================
+
+DOCUMENT #401
+The employee returned to their workstation at 03:17.
+
+DOCUMENT #402
+The employee looked toward the eastern hallway.
+
+DOCUMENT #403
+The employee did not answer the telephone.
+
+DOCUMENT #404
+The employee answered the telephone.
+
+DOCUMENT #405
+The employee is currently reading this document.
+
+DOCUMENT #406
+The employee will continue reading this document.
+
+DOCUMENT #407
+The employee has not yet realized that this document is different.
+
+DOCUMENT #408
+The employee is expected to type the following sentence.
+
+DOCUMENT #409
+The employee is expected to type the following sentence exactly.
+
+DOCUMENT #410
+The employee is expected to type the following sentence exactly as it appears.
+
+DOCUMENT #411
+You are expected to continue.
+
+
+# ================================
+# LATE-GAME LOGS
+# ================================
+
+LOG #041
+YOU HAVE COMPLETED 73 PERCENT OF THE RECORD.
+
+LOG #042
+YOU HAVE COMPLETED 81 PERCENT OF THE RECORD.
+
+LOG #043
+YOU HAVE COMPLETED 91 PERCENT OF THE RECORD.
+
+LOG #044
+THE RECORD IS NEARLY COMPLETE.
+
+LOG #045
+DO NOT COMPLETE THE RECORD.
+
+LOG #046
+PLEASE CONTINUE.
+
+LOG #047
+PLEASE STOP.
+
+LOG #048
+PLEASE CONTINUE.
+
+LOG #049
+THE TWO INSTRUCTIONS ARE NOT CONTRADICTORY.
+
+LOG #050
+YOU HAVE ALREADY CHOSEN.
+
+
+# ================================
+# FINAL DOCUMENTS
+# ================================
+
+DOCUMENT #0001
+The employee was instructed to complete the nightly quota.
+
+DOCUMENT #0002
+The employee completed the nightly quota.
+
+DOCUMENT #0003
+The employee returned for the following shift.
+
+DOCUMENT #0004
+The employee returned for the following shift.
+
+DOCUMENT #0005
+The employee returned for the following shift.
+
+DOCUMENT #0006
+The employee has always worked here.
+
+DOCUMENT #0007
+The employee has never worked here.
+
+DOCUMENT #0008
+The employee is not listed in the personnel directory.
+
+DOCUMENT #0009
+The employee is listed in the personnel directory.
+
+DOCUMENT #0010
+The employee is the author of this record.
+
+
+# ================================
+# DOCUMENT #0000
+# THE END
+# ================================
+
+DOCUMENT #0000
+
+CLASSIFICATION: UNKNOWN
+
+AUTHOR: UNKNOWN
+
+DATE: UNKNOWN
+
+ORIGIN: UNKNOWN
+
+PLEASE DESCRIBE WHAT YOU SEE.
