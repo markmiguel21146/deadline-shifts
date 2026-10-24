@@ -1,2 +1,2 @@
-# deadline-game-unity
+# deadline-shifts
 A typing-styled horror game.
